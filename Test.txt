@@ -1,1 +1,21 @@
-Staterpack
+ตัวอย่างการเอาไฟล์ลง Git hub
+1.สร้างไฟล์ Document ตัวอย่าง Test.txt
+2.git init
+3.git config --global user.name "Bunyakorn"
+4.git config --global user.email "bunyakorn.porn@mail.kmutt.ac.th"
+5.git config --global user.email
+6.git config --global user.name
+7.git status
+8.git add .
+9.git commit -m "Added file Test.txt"
+10.git status
+11.Create New ใน Git hub 
+12.git remote add origin https://github.com/BunyakornGoko/Git_StarterPack.git
+13.git remote -v
+14.git push origin master
+15.กดรีเฟรช หน้า Git hub
+16.สามารถแก้ในไฟล์ Test.txt โดยตรงใน github ได้เลย
+17.git fetch (เป็นคำสั่งที่เอาไว้ตรวจสอบ)
+18.git pull origin master (เป็นคำสั่งที่เอาไว้ใช้ดันโค๊ดที่เราเขียนใน Git hub ไปแสดง  ในไฟล์ Test.txt ซึ่งจะแสดงเป็น Note pad)
+-------------------------------------------------------------------------------------------------------------------------------------------
+git clone (https://github.com/RatchaF101/IT28-StarterPack-clone) <---ลิ้งค์อะไรก็ได้ที่ใช้ Clone ได้  (เป็นคำสั่งที่ใช้ในการ Clone)
